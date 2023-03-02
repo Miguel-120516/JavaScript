@@ -1,0 +1,17 @@
+{
+  "name": "hola-mundo",
+  "version": "1.0.0",
+  "description": "Este es un ejercicio",
+  "main": "index.js",
+  "scripts": {
+    "Saludar": "node saludar.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "student",
+    "firts",
+    "proyect"
+  ],
+  "author": "DesarrollaToda15",
+  "license": "ISC"
+}
